@@ -19,6 +19,12 @@ Tool to convert flac files to alac files
 
 ### Usage:
 
+Display Help:
+```
+flac-tool convert -h
+```
+
+
 Convert Directory of `flac` files to `alac`:
 ```
 flac-tool convert -id <input_dir> -od <output_dir> -t alac

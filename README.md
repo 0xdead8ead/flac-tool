@@ -1,6 +1,6 @@
 # flac-tool
 
-Tool to convert flac files to alac files
+Python tool to convert flac files to alac files.
 
 #### Requires:
 
